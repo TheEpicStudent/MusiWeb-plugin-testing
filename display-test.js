@@ -1,1 +1,1 @@
-display(['/content/home.json', 'Home']);
+pluginTest();
