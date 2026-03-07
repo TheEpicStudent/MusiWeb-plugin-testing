@@ -1,1 +1,1 @@
-pluginTest();
+tabby('home')
