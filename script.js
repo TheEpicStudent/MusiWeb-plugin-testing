@@ -1,2 +1,2 @@
 maintextcolor = 'white';
-tabby(home)
+tabby('home')
